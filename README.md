@@ -1,2 +1,2 @@
-# Project2_ETL
-Building an ETL pipeline using Python, Pandas, 
+# Project2
+Bootcamp Project 2 
